@@ -1,0 +1,15 @@
+{
+  "author": "Scott Hillman <hillmanov@gmail.com>",
+  "name": "node-ermahgerd",
+  "description": "Translated text to ermahgerd!",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:scottrain/node-ermahgerd.git"
+  },
+  "engines": {
+    "node": "~0.6.7"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
