@@ -2,7 +2,7 @@
   "author": "Scott Hillman <hillmanov@gmail.com>",
   "name": "node-ermahgerd",
   "description": "Translated text to ermahgerd!",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": {
     "type": "git",
     "url": "git@github.com:hillmanov/node-ermahgerd.git"
